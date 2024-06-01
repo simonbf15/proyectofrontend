@@ -1,0 +1,32 @@
+.encabezadoPrincipal{
+    background-color:lightblue;
+    color: black;
+    padding: 25px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+
+}
+
+.titulo-encabezado{
+margin: 0 ;
+}
+
+.botones-encabezado{
+    padding: 10px 20px;
+    margin-left: 15px;
+    border: none;
+    border-radius: 5px;
+    cursor:pointer;
+}
+
+.boton-login{
+    background-color: blue;
+    color: black;
+}
+
+.boton-signup{
+    background-color: aquamarine;
+    color: black;
+}
