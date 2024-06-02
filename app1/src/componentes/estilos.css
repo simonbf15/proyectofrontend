@@ -10,7 +10,8 @@
 }
 
 .titulo-encabezado{
-margin: 0 ;
+    font-size: 25px;
+margin-left: 25px ;
 }
 
 .botones-encabezado{
@@ -22,6 +23,7 @@ margin: 0 ;
 }
 
 .boton-login{
+    margin: 5px;
     background-color: blue;
     color: black;
 }
